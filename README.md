@@ -23,7 +23,7 @@
 ![Temporal Analysis](figure/temporal.png)
 
 ### 2. **空间依赖图**
-![Spatial Analysis](figure/spatial.png)
+![Spatial Analysis](figure/spatail.png)
 ---
 
 ## 📊 **实验结果**
