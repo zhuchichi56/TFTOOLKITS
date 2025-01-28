@@ -24,7 +24,6 @@
 
 ### 2. **空间依赖图**
 ![Spatial Analysis](figure/spatial.png)
-
 ---
 
 ## 📊 **实验结果**
